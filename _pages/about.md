@@ -13,10 +13,10 @@ I am a fourth year undergraduate studuent pursuing my Bachelor of Engineering De
 New
 ======
 
-- Paper accepted at ICCV 2021 ABAW!
-- Paper accepted at SIGKDD 2021 epiDAMIK 4.0!
-- Reviewed at NIPS 2021 Algorithmic Fairness through the Lens of Causality and Robustness Workshop!
-
+- August 2021: Paper accepted at ICCV 2021 ABAW!
+- June 2021: Paper accepted at SIGKDD 2021 epiDAMIK 4.0!
+- Served as reviewer at NIPS 2021 Algorithmic Fairness through the Lens of Causality and Robustness Workshop!
+- Served as reviewer at NIPS 2021 Machine Learning for Systems Workshop!
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
