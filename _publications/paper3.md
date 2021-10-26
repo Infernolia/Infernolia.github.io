@@ -1,7 +1,7 @@
 ---
 title: "Modelling Major Disease Outbreaks in the 21st Century: A Causal Approach"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/paper3
 date: 2021-08-15
 venue: 'ACM SIGKDD 2021- epiDAMIK 4.0: The 4th International workshop on Epidemiology meets Data Mining and Knowledge discovery'
 paperurl: 
