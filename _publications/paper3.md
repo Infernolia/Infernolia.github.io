@@ -11,4 +11,3 @@ citation: 'Marathe, Aboli, Saloni Parekh, and Harsh Sakhrani. "Modelling Major D
 
 [Download paper here](https://epidamik.github.io/papers/epiDAMIK_40_paper_4.pdf)
 
-Recommended citation: Marathe, Aboli, Saloni Parekh, and Harsh Sakhrani. "Modelling Major Disease Outbreaks in the 21st Century: A Causal Approach." (2021).
