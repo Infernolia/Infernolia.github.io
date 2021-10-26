@@ -1,7 +1,7 @@
 ---
 title: "Multiscale object detection from drone imagery using ensemble transfer learning"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/paper2
 date: 2021-07-23
 venue: 'Drones MDPI'
 paperurl: 
