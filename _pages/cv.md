@@ -27,6 +27,8 @@ Work experience
 * Winter 2020: HPC GPU Advocate Intern
   * NVIDIA
 
+* Fall 2020: Lead ML Engineer
+  * Omdena
 
 Skills
 ======
