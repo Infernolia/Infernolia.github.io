@@ -24,6 +24,10 @@ Work experience
 * Summer 2020- Summer 2021: Research Assistant
   * Computational Linguistics Laboratory, PICT
 
+* Winter 2020: HPC GPU Advocate Intern
+  * NVIDIA
+
+
 Skills
 ======
 * Skill 1
