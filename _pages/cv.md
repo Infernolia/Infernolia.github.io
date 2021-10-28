@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Engineering, Pune Institute of Computer Technology, Affiliated to Savitribai Phule Pune University, 2018-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020- Fall 2021: Research Intern
+  * Symbiosis Center for Applied Artificial Intelligence
+  * Computer vision, Pedestrian Detection, Autonomous vehicles
+
 
 * Fall 2015: Research Assistant
   * Github University
