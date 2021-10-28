@@ -2,7 +2,7 @@
 title: "Introduction to Machine Learning"
 collection: teaching
 type: "Self Interest Group"
-permalink: /teaching/teach1
+permalink: /teaching/teach2
 venue: "PICT IEEE Student Branch, Pune Institute of Computer Technology"
 date: 2020-21
 location: "Pune, India"
