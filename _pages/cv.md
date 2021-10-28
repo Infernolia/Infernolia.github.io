@@ -21,11 +21,9 @@ Work experience
   * Computer vision, Pedestrian Detection, Autonomous vehicles
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2020- Summer 2021: Research Assistant
+  * Computational Linguistics Laboratory, PICT
+
 Skills
 ======
 * Skill 1
