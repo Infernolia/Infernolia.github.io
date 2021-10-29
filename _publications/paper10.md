@@ -2,7 +2,7 @@
 title: "Evaluating the Performance of a Deep Convolutional Network for Aerial Image Super-Resolution"
 collection: publications
 permalink: /publication/paper10
-date: 2021
+date: 2021-06-21
 venue: 'Seminar and Technical Communication, PICT'
 paperurl: 
 citation: 
