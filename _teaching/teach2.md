@@ -4,7 +4,7 @@ collection: teaching
 type: "Self Interest Group"
 permalink: /teaching/teach2
 venue: "PICT IEEE Student Branch, Pune Institute of Computer Technology"
-date: 2020-21
+date: 2020
 location: "Pune, India"
 ---
 
