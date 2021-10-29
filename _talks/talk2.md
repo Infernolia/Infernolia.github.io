@@ -1,7 +1,7 @@
 ---
 title: "Modelling Major Disease Outbreaks in the 21st Century: A Causal Approach"
 collection: talks
-type: "Talk"
+type: "Oral Presentation"
 permalink: /talks/talk2
 venue: "SIGKDD 2021"
 date: 2021-08-15
