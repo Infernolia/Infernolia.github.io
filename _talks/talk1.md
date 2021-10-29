@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the performance of ensemble methods and voting strategies for dense 2D pedestrian detection in the wild "
 collection: talks
-type: "Talk"
+type: "Oral Presentation"
 permalink: /talks/talk1
 venue: "ICCV 2021"
 date: 2021-10-17
