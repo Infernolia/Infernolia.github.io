@@ -18,3 +18,8 @@ author_profile: true
 * DJVU National Non-Fiction Writing Competition First Prize Winner
 * Secured Second Place in Mnathan Debate Competition 2019 and 2020
 
+## Favourite Poems
+
+* The Rime of the Ancient Mariner - Samuel Taylor Coleridge
+* The Road Not Taken - Robert Frost
+* Ozymandias - Percy Bysshe Shelley
