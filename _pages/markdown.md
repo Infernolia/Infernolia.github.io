@@ -23,3 +23,11 @@ author_profile: true
 * The Rime of the Ancient Mariner - Samuel Taylor Coleridge
 * The Road Not Taken - Robert Frost
 * Ozymandias - Percy Bysshe Shelley
+
+
+## Favourite Book
+
+* The Harry Potter Series - J.K. Rowling
+* DNA The Secret of Life - James Watson
+* Little Women - Louisa May Alcott 
+
