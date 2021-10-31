@@ -32,10 +32,19 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming Languages - Python, R, C++, Java, C, 8086 Assembly, VSDL
+* Scripting Languages - HTML, CSS, Bootstrap, JavaScript
+* Databases - MySQL, MongoDB
+* Frameworks - Django, Flask
+* Machine Learning
+  * Supervised and Unsupervised Learning Algorithms 
+  * Classification and Regression Methods
+  * Ensemble Methods
+  * Feature Selection and Dimensionality Reduction
+* Computer Vision
+  * Generative Adversarial Networks
+  * Object Detection - CNN Architectures and Vision Transformers
+  * Image Segmentation
   * Sub-skill 2.3
 * Skill 3
 
