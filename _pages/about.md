@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<B>Affiliations: </B><BR>
 Aboli Marathe <BR>
 Undergraduate Student<BR>
 Department of Computer Engineering<BR>
 SCTR's Pune Institute of Computer Technology<BR>
-Affiliated to Savitribai Phule Pune University<BR><BR>
+Affiliated to Savitribai Phule Pune University<BR>
   
 <B>Technical Affiliations: </B><BR>
 Research Assistant, Computational Linguistics Laboratory, PICT, 2020-21<BR>
