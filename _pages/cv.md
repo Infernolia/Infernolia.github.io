@@ -35,6 +35,11 @@ Skills
 * Scripting Languages - HTML, CSS, Bootstrap, JavaScript
 * Databases - MySQL, MongoDB
 * Frameworks - Django, Flask
+* Computational Statistics
+  * Distributions 
+  * Bayesian Statistics   
+  * Monte Carlo Method
+  * Hypothesis Tests and Statistical Tests 
 * Machine Learning
   * Supervised and Unsupervised Learning Algorithms 
   * Classification and Regression Methods
