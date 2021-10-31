@@ -1,6 +1,6 @@
 ---
 title: "Pulse-X"
-excerpt: "Project Secured the Third Prize at Pasckathon 2.0 Hackathon organized by PICT ACM Student Branch<br/><img src='/images/proj2.png' height= "500" width="500">"
+excerpt: "Project Secured the Third Prize at Pasckathon 2.0 Hackathon organized by PICT ACM Student Branch<br/><img src='/images/proj2.png'>"
 collection: portfolio
 ---
 
