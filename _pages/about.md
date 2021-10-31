@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Aboli Marathe
+Undergraduate Student
+Department of Computer Engineering
+SCTR's Pune Institute of Computer Technology
+
 I am a fourth year undergraduate studuent pursuing my Bachelor of Engineering Degree in Computer Engineering at SCTR's Pune Institute of Computer Technology, affiliated to Savitribai Phule Pune University. I enjoy designing efficient computer vision architectures and reinforcement learning models for versatile AI systems. Contributing towards AI for social good is close to my heart and I will always strive to making the world a better place with inclusive technology. Besides machine learning, I have a particular fondness for poetry and sharp cheese!
 
 News
