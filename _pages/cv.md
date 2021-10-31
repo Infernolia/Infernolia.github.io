@@ -60,3 +60,6 @@ Teaching
 Service and leadership
 ======
 * Technical Head, PICT IEEE Student Branch
+* Global Ambassador, WomenTech Network
+* Richard E. Merwin Scholar, IEEE Computer Society
+
