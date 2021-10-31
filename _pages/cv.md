@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Computer Engineering, Pune Institute of Computer Technology, Affiliated to Savitribai Phule Pune University, 2018-2022
-* Honours in Machine Learning and Artificial Intelligence
+* Honors in Machine Learning and Artificial Intelligence
 
 Work experience
 ======
