@@ -1,6 +1,6 @@
 ---
 title: "HPC and AI Bootcamp Material"
-excerpt: "Project Completed During my Internship at NVIDIAy<br/><img src='/images/proj4.png'>"
+excerpt: "Project Completed During my Internship at NVIDIA<br/><img src='/images/proj4.png'>"
 collection: portfolio
 ---
 
