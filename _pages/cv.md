@@ -46,7 +46,10 @@ Skills
   * Object Detection - CNN Architectures and Vision Transformers
   * Image Segmentation
   * Sub-skill 2.3
-* Skill 3
+* Reinforcement Learning
+  * DQN, DDQN and variations of DQN
+  * A3C Method
+  * Counterfactual Regret Minimization   
 
 Publications
 ======
