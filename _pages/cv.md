@@ -19,14 +19,13 @@ Work experience
 * Fall 2020- Fall 2021: Research Intern, Symbiosis Center for Applied Artificial Intelligence
   * Computer vision, Pedestrian Detection, Autonomous vehicles
 
-
 * Summer 2020- Summer 2021: Research Assistant, Computational Linguistics Laboratory, PICT
   * Natural Language Processing, Sentiment Analysis
 
 * Winter 2020: HPC GPU Advocate Intern, NVIDIA
   * Profiling and optimization, OpenACC, OpenMP, CudaC, RAPIDS AI
 
-* Fall 2020: Lead ML Engineer, Omdena
+* Fall 2020: Lead ML Engineer, Omdena x Botnar Foundation
   * Natural Language Processing, Sentiment Analysis
 
 Skills
