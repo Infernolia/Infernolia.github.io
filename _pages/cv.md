@@ -92,4 +92,6 @@ Clubs
 
 * PICT IEEE Student Branch [2019-21]
 * Google Developer Student Clubs PICT [2020-21]
+* TEDxPICT [2019-20]
+* 
 
