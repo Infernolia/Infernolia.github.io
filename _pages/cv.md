@@ -87,3 +87,8 @@ Service and leadership
 * Richard E. Merwin Scholar, IEEE Computer Society
 * Served as reviewer at NeurIPS 2021 ML For Systems and Algorithmic Fairness through the Lens of Causality and Robustness Workshops
 
+Clubs
+======
+
+* PICT IEEE Student Branch
+
