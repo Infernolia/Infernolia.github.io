@@ -91,4 +91,5 @@ Clubs
 ======
 
 * PICT IEEE Student Branch
+* Google Developer Student Clubs PICT
 
