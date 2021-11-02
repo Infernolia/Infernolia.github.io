@@ -34,6 +34,9 @@ Work experience
 * Fall 2020: Lead ML Engineer, Omdena x Botnar Foundation
   * Natural Language Processing, Sentiment Analysis
 
+ * Spring 2020: Junior ML Engineer, Omdena x World Energy Council
+  * Natural Language Processing, Sentiment Analysis
+
 Skills
 ======
 * Programming Languages - Python, R, C++, Java, C, 8086 Assembly, VSDL
