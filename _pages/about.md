@@ -11,7 +11,7 @@ I am a fourth year undergraduate studuent pursuing my Bachelor of Engineering De
   
 <B>Technical Affiliations: </B><BR>
 Research Assistant, Computational Linguistics Laboratory, PICT, 2020-21<BR>
-Member, IEEE (ID: 96054989), 2019-21<BR>
+Member, IEEE, 2019-22<BR>
 Member, IEEE Computer Society, 2021 <BR>
 Member, IEEE Women in Engineering, 2021 <BR>
 Technical Head, PICT IEEE Student Branch, 2020-21 <BR>
