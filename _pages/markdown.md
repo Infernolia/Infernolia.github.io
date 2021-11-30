@@ -7,7 +7,7 @@ author_profile: true
 
 ## Sports
 
-* National Speedball Gold Medallist in the years 20xx, 20xx and 20xx
+* National Speedball Gold Medallist in the years 2013, 2014 and 2015
 * Taekwondo Black Belt 
 * Enthusiastic chess and badminton player
 
