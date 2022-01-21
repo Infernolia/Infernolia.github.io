@@ -8,7 +8,7 @@ date: 2020-05-01
 location: "Pune, India"
 ---
 
-Taught a batch of 210 engineering students the fundamental concepts of C++ programming. 
+Taught over 100 engineering students the fundamental concepts of C++ programming. 
 
 Topics Covered:
 1. Basics of C++ such as cout and cin.
