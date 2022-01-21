@@ -8,7 +8,7 @@ date: 2020-05-01
 location: "Pune, India"
 ---
 
-Guided a batch of 210 engineering students towards introduction to machine learning. 
+Guided over 200 engineering students through a SIG on introduction to machine learning. 
 
 Topics Covered:
 1. Theoretical Introduction to Algorithms
