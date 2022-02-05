@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth year undergraduate studuent pursuing my Bachelor of Engineering Degree in Computer Engineering at SCTR's Pune Institute of Computer Technology, affiliated to Savitribai Phule Pune University. I dabble with computer vision architectures and reinforcement learning models for versatile AI systems. Contributing towards AI for social good is close to my heart and I will always strive to making the world a better place with inclusive technology. Besides machine learning, I have a fondness for poetry and sharp cheese! 
+I am a fourth year undergraduate student pursuing my Bachelor of Engineering Degree in Computer Engineering at SCTR's Pune Institute of Computer Technology, affiliated to Savitribai Phule Pune University. I dabble with computer vision architectures and reinforcement learning models for versatile AI systems. Contributing towards AI for social good is close to my heart and I will always strive to making the world a better place with inclusive technology. Besides machine learning, I have a fondness for poetry and sharp cheese! 
   
 <B>Technical Affiliations: </B><BR>
 Research Assistant, Computational Linguistics Laboratory, PICT, 2020-21<BR>
