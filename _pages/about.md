@@ -23,7 +23,7 @@ News
 - April 2022: Paper accepted at CVPR 2022 V4AS!
 - August 2021: Paper accepted at ICCV 2021 ABAW!
 - June 2021: Paper accepted at SIGKDD 2021 epiDAMIK 4.0!
-- October 2021: Served as reviewer at NIPS 2021 Algorithmic Fairness through the Lens of Causality and Robustness Workshop!
+- October 2021: Served as reviewer at NIPS 2021 Algorithmic Fairness through the Lens of Causality and Robustness Workshop! Link: https://proceedings.mlr.press/v171/schrouff22a/schrouff22a.pdf.
 - October 2021: Served as reviewer at NIPS 2021 Machine Learning for Systems Workshop!
 
 ---
