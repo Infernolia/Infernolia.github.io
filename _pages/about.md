@@ -19,6 +19,8 @@ Global Ambassador, WomenTech Network, 2020-21 <BR>
 
 News
 ======
+
+- April 2022: Paper accepted at CVPR 2022 V4AS!
 - August 2021: Paper accepted at ICCV 2021 ABAW!
 - June 2021: Paper accepted at SIGKDD 2021 epiDAMIK 4.0!
 - October 2021: Served as reviewer at NIPS 2021 Algorithmic Fairness through the Lens of Causality and Robustness Workshop!
